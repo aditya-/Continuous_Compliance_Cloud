@@ -1,8 +1,8 @@
 global:
   govcloud: true
   marketplace-ami: false
-  owner: quickstart-eng@amazon.com
-  qsname: quickstart-compliance-cis-benchmark
+  owner: aditya-
+  qsname: compliance-cis-benchmark
   regions:
 #Tests will run in all AWS regions
   - ap-northeast-1
