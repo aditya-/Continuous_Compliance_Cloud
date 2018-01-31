@@ -26,7 +26,7 @@ CF scripts will deploy a standard three-tier web architecture using multiple VPC
 
 ![Architecture](./wiki_assets/images/quick-start-architecture.png)
 
-#####VPC Architecture
+##### VPC Architecture
 
 ![Architecture](./wiki_assets/images/quick-start-vpc-highlight.png)
 
