@@ -1,7 +1,7 @@
 
 ![](./wiki_assets/devsecops.png)
 
-# Continuous_Compliance_Cloud
+# Compliance as Code
 This Repository deals with Architecture and Automation for achieving Continuous-Compliance in AWS Cloud
 
 ## CIS AWS Foundations Benchmark Compliance in the AWS Cloud
